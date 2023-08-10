@@ -1,6 +1,14 @@
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
+import pandas as pd
+from sklearn.model_selection import train_test_split
+
+def strat_samp(data, sample_size):
+    t_size = sample_size / len(data)
+    data = data[data['sentence_count'] > 1]
+    train_data, test_data = train_test_split(data, test_size=t_size, stratify=data['article_id'], random_state=42)
+    return test_data
 
 subj_thres = 0.8
 sent_thres = 0.6
