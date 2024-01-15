@@ -1,5 +1,5 @@
-# usc_isi_reu
-Summer Research Data Analysis Project at USC Information Science Institute
+# Project Description: usc_isi_reu
+Summer Research Data Analysis Project at USC Information Science Institute. I analyzed news sources across the political spectrum's use of emotional language in their objective news reporting pieces to understand the correlation between biased news sources and increased presence of emotional language and how a web plug-in could be the solution to potential disinformation.
 
 # Visualization: Distribution of % of Emotional Language Across Left, Center, and Right biased news sources:
 <img width="693" alt="infographic" src="https://github.com/chen70335/usc_isi_reu/assets/101837218/0358ccfd-f909-4a31-8e7a-f0bce679a09d">
