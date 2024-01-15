@@ -1,7 +1,7 @@
 # usc_isi_reu
 Summer Research Data Analysis Project at USC Information Science Institute
 
-Distribution of % of Emotional Language Across Left, Center, and Right biased news sources:
+# Visualization: Distribution of % of Emotional Language Across Left, Center, and Right biased news sources:
 <img width="693" alt="infographic" src="https://github.com/chen70335/usc_isi_reu/assets/101837218/0358ccfd-f909-4a31-8e7a-f0bce679a09d">
 
 ## datasets/sentenced/
